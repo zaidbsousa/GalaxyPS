@@ -1239,7 +1239,7 @@ img {
 
 /* ===== Stats Section ===== */
 .stats {
-    background-image: linear-gradient(rgba(0, 102, 204, 0.95), rgba(0, 102, 204, 0.95)), url("../images/svg/stats-bg.svg");
+    background-image: linear-gradient(rgba(0, 102, 204, 0.95), rgba(0, 102, 204, 0.95)), url("../images/svg/stats-bg.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
